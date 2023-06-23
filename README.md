@@ -38,7 +38,7 @@ Make sure you know sudo password(if any) and have at least one RSA-key for root 
 Install using __wget__
 
 ```
-wget https://raw.githubusercontent.com/phoenixweiss/sskit/master/ssk_install.sh -v -O ssk_install.sh && chmod +x ssk_install.sh && bash ssk_install.sh
+wget https://raw.githubusercontent.com/dsmlru/sskit/master/ssk_install.sh -v -O ssk_install.sh && chmod +x ssk_install.sh && bash ssk_install.sh
 ```
 
 ## Notes:
